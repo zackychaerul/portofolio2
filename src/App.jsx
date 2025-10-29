@@ -157,7 +157,7 @@ function App() {
           data-aos-delay="300"
           data-aos-once="true"
         >
-          Beberapa karya desain dan proyek visual yang pernah saya buat.
+          Ini beberapa galerry saya.
         </p>
         <div className="gallery-box grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-6">
           {listGallery.map((item) => (
