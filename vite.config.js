@@ -2,7 +2,8 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
+// https://vite.dev/config/
 export default defineConfig({
+  base: "/portofolio2/", // ✅ tambahkan ini
   plugins: [react(), tailwindcss()],
-  base: "/portofolio2/", // ✅ penting untuk GitHub Pages
 });
