@@ -157,9 +157,9 @@ export const listProyek = [
 ];
 
 // import gambar gallery
-import Gallery1 from "/assets/gallery/gallery1.webp";
-import Gallery2 from "/assets/gallery/gallery2.webp";
-import Gallery3 from "/assets/gallery/gallery3.webp";
+import Gallery1 from "/assets/gallery/gallery1new.webp";
+import Gallery2 from "/assets/gallery/gallery2new.webp";
+import Gallery3 from "/assets/gallery/gallery3new.webp";
 
 export const listGallery = [
   {
