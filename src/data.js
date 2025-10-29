@@ -164,17 +164,17 @@ import Gallery3 from "/assets/gallery/gallery3new.webp";
 export const listGallery = [
   {
     id: 1,
-    gambar: "/assets/gallery/gallery1new.webp",
+    gambar: Gallery1,
     nama: "Karya Desain 1",
   },
   {
     id: 2,
-    gambar: "/assets/gallery/gallery2new.webp",
+    gambar: Gallery2,
     nama: "Karya Desain 2",
   },
   {
     id: 3,
-    gambar: "/assets/gallery/gallery3new.webp",
+    gambar: Gallery3,
     nama: "Karya Desain 3",
   },
 ];
