@@ -165,16 +165,16 @@ export const listGallery = [
   {
     id: 1,
     gambar: Gallery1,
-    nama: "Karya Desain 1",
+    nama: "foto saat saya di puncak pass",
   },
   {
     id: 2,
     gambar: Gallery2,
-    nama: "Karya Desain 2",
+    nama: "Foto saat saya di bandung",
   },
   {
     id: 3,
     gambar: Gallery3,
-    nama: "Karya Desain 3",
+    nama: "Foto saat saya di gunung papandayan",
   },
 ];
