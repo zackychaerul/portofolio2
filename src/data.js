@@ -170,7 +170,7 @@ export const listGallery = [
   {
     id: 2,
     gambar: Gallery2,
-    nama: "Foto saat saya di gunung papandayan",
+    nama: "Foto saat saya di gunung papandayann",
   },
   {
     id: 3,
